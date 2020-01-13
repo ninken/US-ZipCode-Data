@@ -1,0 +1,14 @@
+TIGER2010 ZIP Codes
+-------------------------------------------------------------------------------------------
+https://www2.census.gov/geo/tiger/TIGER2010/ZCTA5/2010/tl_2010_us_zcta510.zip
+
+FIPS (Federal Information Processing Standards)
+-------------------------------------------------------------------------------------------
+state-geocodes-v2018.xlsx
+https://www2.census.gov/programs-surveys/popest/geographies/2018/state-geocodes-v2018.xlsx
+
+all-geocodes-v2018.xlsx
+https://www2.census.gov/programs-surveys/popest/geographies/2018/all-geocodes-v2018.xlsx
+
+
+-------------------------------------------------------------------------------------------

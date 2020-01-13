@@ -1,0 +1,3 @@
+ZIP to FIPS
+-------------------------------------------------------------------------------------------
+https://data.world/niccolley/us-zipcode-to-county-state/workspace/file?filename=ZIP-COUNTY-FIPS_2018-03.csv
